@@ -12,7 +12,7 @@ header {
     text-align: center;
 }
 /* Add styles for the dropdown menu */
-#countryDropdown {
+countryDropdown {
     margin-left: 20px;
     padding: 10px;
     font-size: 16px;
