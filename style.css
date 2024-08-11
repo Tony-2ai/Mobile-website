@@ -11,6 +11,13 @@ header {
     padding: 20px;
     text-align: center;
 }
+/* Add styles for the dropdown menu */
+#countryDropdown {
+    margin-left: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
+
 
 h1 {
     color: #ff8c00;
